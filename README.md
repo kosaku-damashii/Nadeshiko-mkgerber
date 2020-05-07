@@ -1,0 +1,2 @@
+# Nadeshiko-mkgerber
+KiCadなどから出力されたガーバーデータを、Fusion PCBなどの基板メーカーが要求するファイル形式にファイル名を変換し、zipファイルにまとめる。
