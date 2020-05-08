@@ -16,3 +16,5 @@ mkgerber.zip を任意のフォルダーへ展開し、実行ファイル「mkge
 ・変換したファイルは、同じフォルダー内の「OrderFiles」というフォルダー内に保存されます。
 ・変換したファイルはzipファイルに圧縮され、デスクトップに保存されます。
 
+![EXazuEpXgAAIWYr](https://user-images.githubusercontent.com/62051355/81411533-777f6a80-917d-11ea-889b-1b856f6c6ff4.jpg)
+
